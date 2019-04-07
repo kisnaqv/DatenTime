@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pickdate" type="id" />
+    <item name="date" type="id" />
+    <item name="picktime" type="id" />
+</resources>
